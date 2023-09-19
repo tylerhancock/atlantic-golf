@@ -1,0 +1,12 @@
+html,
+body {
+  background: #faf3ed;
+  margin: 0;
+}
+
+.coming-soon {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
